@@ -1,5 +1,5 @@
     <?php 
-    session_start();
+    // session_start();
     include 'logIn.php'; 
     ?>
 <!DOCTYPE html>
